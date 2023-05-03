@@ -11,4 +11,5 @@ public class BooleanExample {
 		}
 	}
 }
-// primitive 자바에서 만들어준 원시어? 원시변수? : long short byte double char float boolean int
+// primitive 자바에서 만들어준 원시어? 원시변수?
+// 크기별로 : byte short char(양수만 가능) int long float boolean double

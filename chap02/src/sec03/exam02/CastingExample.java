@@ -19,3 +19,4 @@ public class CastingExample {
 }
 
 // 강제 형변환 casting <-> 자동 형변환 promotion
+//byte(정수) < short(정수)/char(문자) < int(정수) < long(정수) < float(실수) < double(실수)
