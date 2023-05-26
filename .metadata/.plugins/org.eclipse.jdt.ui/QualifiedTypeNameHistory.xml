@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="sec06.exam01.SnowTire"/>
+<fullyQualifiedTypeName name="sec06.exam02.hankook.SnowTire"/>
+<fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
 </qualifiedTypeNameHistroy>
