@@ -1,0 +1,14 @@
+abstract        interface(구현)
+
+extends         inplements
+
+형변환
+생성자 생성x
+override 선언
+메소드 매개변수 다형성(?)
+
+필드, 지역변수 구별 가능해야함
+메소드~~
+
+
+private -> getset(methods)
