@@ -4,4 +4,10 @@
 <fullyQualifiedTypeName name="sec06.exam01.SnowTire"/>
 <fullyQualifiedTypeName name="sec06.exam02.hankook.SnowTire"/>
 <fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
+<fullyQualifiedTypeName name="sec01.exam06.MyClass"/>
+<fullyQualifiedTypeName name="sec02.exam01.A.B"/>
+<fullyQualifiedTypeName name="sec02.exam01.A.C"/>
+<fullyQualifiedTypeName name="sec02.exam05.Outter.Nested"/>
+<fullyQualifiedTypeName name="sec02.exam06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam08.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
